@@ -18,3 +18,8 @@ da
 dw
 adwd
 
+dwa
+daad
+aw
+d
+
